@@ -1,48 +1,48 @@
 **Contents**
 
-<a href="#about">About IETF Meetings</a><br>
-<a href="#participants">Participants</a><br>
-   <a href="#who">Who Participates</a><br>
-   <a href="#expect">What to Expect From Other Participants</a><br>
-   <a href="#notexpect">What Not to Expect From Other Participants</a><br>
-<a href="#registering">Registering for the Meeting</a><br>
-<a href="#agenda">Agenda for the Week</a><br>
-   <a href="#weekendsessions">Pre-Meeting Weekend Sessions</a><br>
-      <a href="#hackathon">Hackathon</a><br>
-      <a href="#sprints">Code Sprint and Content Sprint</a><br>
-      <a href="#hotRFC">hotRFC</a><br>
-      <a href="#welcomereception">Welcome Reception</a><br>
-   <a href="#meetingweek">Meeting Week</a><br><br>
-      <a href="#workinggroupsessions">Working Group and BoF Sessions</a><br>
-      <a href="#researchgroupsessions">Research Group Sessions</a><br>
-      <a href="#plenary">Plenary Sessions</a><br>
-      <a href="#socialevent">Social Event</a><br>
-      <a href="#officehours">Office Hours</a><br>
-      <a href="#sidemeetings">Side Meetings</a><br>
-   <a href="#specialevents">Special events</a><br>
-      <a href="#anrw">Applied Networking Research Workshop and Prize</a><br>
-      <a href="#postelaward">Postel Award</a><br>
-<a href="#insessionparticipation">Participating in sessions</a><br>
-   <a href="#insessiononsite">Onsite</a><br>
-   <a href="#insessionremote">Remote</a><br>
-   <a href="#insessionchat">Chat</a><br>
-   <a href="#insessionmaterials">Materials</a><br>
-   <a href="#insessionrecordings">Recordings</a><br>
-<a href="#onsitefacilities">Onsite Facilities</a><br>
-   <a href="#registrationdesk">Registration Desk</a><br>
-   <a href="#namebadges">Name Badges</a><br>
-   <a href="#networkaccess">Network Access</a><br>
-   <a href="#mealsdrinkssnacks">Meals, Drinks and Snacks</a><br>
-   <a href="#childcare">Childcare</a><br>
-   <a href="#lostandfound">Lost and Found</a><br>
-   <a href="#terminalroom">Terminal Room</a><br>
-<a href="#newparticipants">New Participants</a><br>
-   <a href="#newparticipantevents">Events for New Participants</a><br>
-   <a href="#guides">Guides Program</a><br>
-   <a href="#newparticipantresources">Resources for New Participants</a><br>
-   <a href="#newparticipanttips">Tips for New Participants</a><br>
-<a href="#aftermeeting">After the Meeting</a><br>
-<a href="#sponsors">Sponsors</a><br>
+* <a href="#about">About IETF Meetings</a><br>
+* <a href="#participants">Participants</a><br>
+   * <a href="#who">Who Participates</a><br>
+   * <a href="#expect">What to Expect From Other Participants</a><br>
+   * <a href="#notexpect">What Not to Expect From Other Participants</a><br>
+* <a href="#registering">Registering for the Meeting</a><br>
+* <a href="#agenda">Agenda for the Week</a><br>
+   * <a href="#weekendsessions">Pre-Meeting Weekend Sessions</a><br>
+      * <a href="#hackathon">Hackathon</a><br>
+      * <a href="#sprints">Code Sprint and Content Sprint</a><br>
+      * <a href="#hotRFC">hotRFC</a><br>
+      * <a href="#welcomereception">Welcome Reception</a><br>
+   * <a href="#meetingweek">Meeting Week</a><br><br>
+      * <a href="#workinggroupsessions">Working Group and BoF Sessions</a><br>
+      * <a href="#researchgroupsessions">Research Group Sessions</a><br>
+      * <a href="#plenary">Plenary Sessions</a><br>
+      * <a href="#socialevent">Social Event</a><br>
+      * <a href="#officehours">Office Hours</a><br>
+      * <a href="#sidemeetings">Side Meetings</a><br>
+   * <a href="#specialevents">Special events</a><br>
+      * <a href="#anrw">Applied Networking Research Workshop and Prize</a><br>
+      * <a href="#postelaward">Postel Award</a><br>
+* <a href="#insessionparticipation">Participating in sessions</a><br>
+   * <a href="#insessiononsite">Onsite</a><br>
+   * <a href="#insessionremote">Remote</a><br>
+   * <a href="#insessionchat">Chat</a><br>
+   * <a href="#insessionmaterials">Materials</a><br>
+   * <a href="#insessionrecordings">Recordings</a><br>
+* <a href="#onsitefacilities">Onsite Facilities</a><br>
+   * <a href="#registrationdesk">Registration Desk</a><br>
+   * <a href="#namebadges">Name Badges</a><br>
+   * <a href="#networkaccess">Network Access</a><br>
+   * <a href="#mealsdrinkssnacks">Meals, Drinks and Snacks</a><br>
+   * <a href="#childcare">Childcare</a><br>
+   * <a href="#lostandfound">Lost and Found</a><br>
+   * <a href="#terminalroom">Terminal Room</a><br>
+* <a href="#newparticipants">New Participants</a><br>
+   * <a href="#newparticipantevents">Events for New Participants</a><br>
+   * <a href="#guides">Guides Program</a><br>
+   * <a href="#newparticipantresources">Resources for New Participants</a><br>
+   * <a href="#newparticipanttips">Tips for New Participants</a><br>
+* <a href="#aftermeeting">After the Meeting</a><br>
+* <a href="#sponsors">Sponsors</a><br>
 
 <br>
 
@@ -57,21 +57,17 @@ There have been more than 110 IETF meetings so far. The list of future meetings 
 ## <a id="who">Who Participates</a>
 IETF meetings are of high interest to engineers, developers, academics, researchers and interested individuals, from a range of industries and specialisms:
 
-* Vendors
-   In most areas of the IETF, employees of networking hardware and software vendors are the ones writing the protocols and leading the Working Groups. If you create Internet hardware or software, or run a service available on the Internet, and no one from your company has ever attended an IETF meeting, it behooves you to come to a meeting if for no other reason than to tell the others in your company how relevant the meeting was or was not to your business.
+* **Vendors**.  In most areas of the IETF, employees of networking hardware and software vendors are the ones writing the protocols and leading the Working Groups. If you create Internet hardware or software, or run a service available on the Internet, and no one from your company has ever attended an IETF meeting, it behooves you to come to a meeting if for no other reason than to tell the others in your company how relevant the meeting was or was not to your business.
 
-* Operators
-   A fair amount of IETF work covers many parts of the operations of ISPs, social media platforms, streaming media companies, large enterprises and specialist industries such as domain name registries/registrars. The IETF has several WGs focused on operations, in addition to many relevant protocols under development. For example, the IETF is increasingly working on encrypting network traffic, which has significant implications for operators. Many of the best operations documents from the IETF come from real-world operators.  
+* **Operators**.  A fair amount of IETF work covers many parts of the operations of ISPs, social media platforms, streaming media companies, large enterprises and specialist industries such as domain name registries/registrars. The IETF has several WGs focused on operations, in addition to many relevant protocols under development. For example, the IETF is increasingly working on encrypting network traffic, which has significant implications for operators. Many of the best operations documents from the IETF come from real-world operators.  
 
-* Academia
-   IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force (IRTF) meets concurrently with the IETF and IRTF Research Groups (analagous to WGs) are of high interest to researchers.  There is also an annual [Applied Networking Research Workhop](link).
+* **Academia**.  IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force (IRTF) meets concurrently with the IETF and IRTF Research Groups (analogous to WGs) are of high interest to researchers.  There is also an annual [Applied Networking Research Workshop](link).
 
-* Interested individuals
-  There are also many people who participate solely as individuals with no direct link to their employment.  A key principle of the IETF is that participation is as an *individual* not a formal representative of an employer, and so interested individuals have as much opportunity to contribute as anyone else.
+* **Interested individuals**.  There are also many people who participate solely as individuals with no direct link to their employment.  A key principle of the IETF is that participation is as an *individual* not a formal representative of an employer, and so interested individuals have as much opportunity to contribute as anyone else.
 
 Given that IETF meetings are very different from trade conferences or learning/training based conferences, there are some roles who would probably get little benefit from participating:
 
-* IETF meetings are not designed or intended for sales and marketing people.  There are no sales booths, no advertising is permitted and there are no opportunites for marketing presentations.
+* IETF meetings are not designed or intended for sales and marketing people.  There are no sales booths, no advertising is permitted and there are no opportunities for marketing presentations.
 
 * As the IETF is a technical organization, there are rarely any opportunities for non-technical policy makers or policy advocates to contribute.
 
@@ -104,7 +100,7 @@ NOTE: The IETF and related organizations are committed to transparency and so so
 You will automatically be subscribed to a meeting-specific announcement list and, unless you opt-out, you will automatically be subscribed to a meeting-specific email list.  Discussions on the meetings list can be high volume and fairly wide-ranging about meeting-specific issues, but it is also a channel for sharing information that many find useful to understand what is going on during the meeting itself. Topics often include information about local mass transit, interesting sites to see, desire to buy or sell a social event ticket, and so on. Local experts, people who live in the area, often respond to questions and can be very helpful.
 
 # <a id="agenda">Agenda for the Week</a>
-The agenda for each meeting is available online on a mobile-friendly web page.  Please note that changes can happen up to the last minute, such as cancelling a WG meeting.  All of the sessions below are listed on the agenda. 
+The agenda for each meeting is available online on a mobile-friendly web page.  Please note that changes can happen up to the last minute, such as canceling a WG meeting.  All of the sessions below are listed on the agenda. 
 
 A map showing the hotel layout and, specifically the meeting rooms, is also available with the agenda. Room assignments can change as the agenda changes. Some Working Groups meet multiple times during a meeting, and every attempt is made to have a Working Group meet in the same room for each session.
 
@@ -112,16 +108,16 @@ A map showing the hotel layout and, specifically the meeting rooms, is also avai
 On the Saturday and Sunday before the official start of the meeting, there are a few sessions for participants.  In addition to those listed below, Sunday also has some [new participants events](#newparticipantevents).  See the New Participant section below for more details.
 
 ### <a id="hackathon">Hackathon</a>
-The main sesson is the [IETF Hackathon](https://www.ietf.org/how/runningcode/), which generally has 200+ participants working on one of the various projects but the room is open to any participant to come in.  Full support is provided for remote participants  Unlike the rest of the week, breakfast and lunch are provided for the Hackathon.  Registration is free and should be completed at the same time as the main meeting registration.
+The main weekend session running across both Saturday and Sunday, is the [IETF Hackathon](https://www.ietf.org/how/runningcode/), which generally has 200+ participants working on one of the various projects but the room is open to any participant to come in.  Full support is provided for remote participants  Unlike the rest of the week, breakfast and lunch are provided for the Hackathon.  Registration is free and should be completed at the same time as the main meeting registration.
 
 ### <a id="sprints">Code Sprint and Content Sprint</a>
 There are also two smaller sessions on the Saturday of a **Code Sprint**, where participants contribute patches and new features to the IETF Datatracker, and sometimes a **Content Sprint** where participants contribute text to IETF wikis and other documentation.  Both these sessions have full support for remote participants.
 
 ### <a id="hotRFC">hotRFC</a>
-The Sunday evening sees the **HotRFC Lightning Talks**.  These are a series of talks, where individuals talk through an Internet-Draft that that have authored in just five minutes, with no questions or audience interaction.  These are a great way for people learn about a wide range of current acitivity within the IETF.
+The Sunday evening sees the **HotRFC Lightning Talks**.  These are a series of talks, where individuals talk through an Internet-Draft that that have authored in just five minutes, with no questions or audience interaction.  These are a great way for people learn about a wide range of current activity within the IETF.
 
 ### <a id="welcomereception">Welcome Reception</a>
-The meeting officially begins with a **Welcome Reception** on the sunday evening and most onsite participants show up to meet each other and mingle. A snack buffet is provided, though it is not meant to be a replacement for dinner, as is a cash bar.  The Welcome Reception is an onsite event only with no support for remote participants.
+The meeting officially begins with a **Welcome Reception** on Sunday evening and most onsite participants show up to meet each other and mingle. A snack buffet is provided, though it is not meant to be a replacement for dinner, as is a cash bar.  The Welcome Reception is an onsite event only with no support for remote participants.
 
 ## <a id="meetingweek">Meeting Week</a>
 The official meeting runs from Monday through to Friday, with the following sessions on the agenda:
@@ -140,21 +136,21 @@ The Administrative Plenary is organized by the IETF Chair and normally takes pla
 Either the first part of the Administrative Plenary, or a separate Technical Plenary, may have one or more technical presentations on topics of interest to many Working Groups. This is organized by the IAB. 
 
 ### <a id="socialevent">Social Event</a>
-The meeting host (main sponsor) may choose to hold a social event during the week, generally on a Tuesday evening.  The social event is sometimes high-tech-related event, or it might be in an art museum or a reception hall. Note, however, that not all IETF meetings have social events.  This event is designed to give people a chance to meet on a social, rather than technical, level.  It is a good idea to wear your name badge and leave your laptop behind.
+The meeting host (main sponsor) may choose to hold a social event during the week, generally on a Tuesday evening.  The social event is sometimes a high-tech-related event, or it might be in an art museum or a reception hall. Note, however, that not all IETF meetings have social events.  This event is designed to give people a chance to meet on a social, rather than technical, level.  It is a good idea to wear your name badge and leave your laptop behind.
 
-The social event is a paid event, with tickets purchased the time of registration and has limited capacity. It is common for people looking to buy or sell a social ticket to post to the participant email list.
+The social event is a paid event, with tickets purchased at time of registration, and has limited capacity. It is common for people looking to buy or sell a social ticket to post to the participant email list.
 
 ### <a id="officehours">Office Hours</a>
-During the week, the various leadership groups and other appointed roles may hold an "office hours" session, advertised on the agenda.  This is a chance for to drop in and meet with that person/group and discuss any topic of interest.
+During the week, the various leadership groups and other appointed roles may hold an "office hours" session, advertised on the agenda.  This is a chance for you to drop in and meet with that person/group and discuss any topic of interest.
 
 ### <a id="sidemeetings">Side Meetings</a>
-A side meeting (historically called a "bar BOF") is an unofficial get-together in-between WG meetings or in the late evening, during which a lot of work gets done. The IETF provides two rooms that can booked on a first-come-first-served basis for side meetings, but they can spring up in many different places around an IETF meeting, such as restaurants, coffee shops, unused hall spaces and the like. 
+A side meeting (historically called a "bar BOF") is an unofficial get-together in-between WG meetings or in the late evening, during which a lot of work gets done. The IETF provides two rooms that can be booked on a first-come-first-served basis for side meetings, but side meetings can spring up in many different places around an IETF meeting, such as restaurants, coffee shops, unused hall spaces and the like. 
 
 ## <a id="specialevents">Special events</a>
 There are a small number of special events during IETF meetings:
 
 ### <a id="anrw">Applied Networking Research Workshop and Prize</a>
-The IRTF and ACM co-host the annual [Applied Networking Research Workshop](https://irtf.org/anrw/), normally scheduled during the July IETF meeting  Registration is required and IETF attendees can attend for free. 
+The IRTF and ACM co-host the annual [Applied Networking Research Workshop](https://irtf.org/anrw/), normally scheduled during the July IETF meeting. Registration is required and IETF attendees can attend for free. 
 
 The IRTF also hosts the [Applied Networking Research Prize](https://irtf.org/anrp/), which includes a cash prize, a travel grant to attend, and a chance to present. See the web page for requirements.
 
@@ -169,14 +165,14 @@ When you enter a session you should register your participation using the mobile
 
 Different WGs chairs have very different styles, so it is impossible to generalize how a WG meeting will feel. All WGs have agendas, however, and most will follow the following approach.
 
-At the beginning of the meeting, the chair will calls for volunteers to take minutes. More than one person can do so, and they are often done on a Web page using a collaborative editing app. Taking minutes can be a good way to ensure you follow the discussions without distraction! The link to the web page will be part of the WG entry that is part of the online meeting agenda. There is also a chance to make any last-minute updates to the agenda. This is known as "agenda bashing." Finally, there will be a review of the Note Well. The order in which these things happen can vary, but they are all done before the meeting really "starts."
+At the beginning of the meeting, the chair will call for volunteers to take minutes. More than one person can do so, and they are often done on a Web page using a collaborative editing app. Taking minutes can be a good way to ensure you follow the discussions without distraction! The link to the web page will be part of the WG entry that is part of the online meeting agenda. There is also a chance to make any last-minute updates to the agenda. This is known as "agenda bashing." Finally, there will be a review of the Note Well. The order in which these things happen can vary, but they are all done before the meeting really "starts."
 
 To speak during a meeting, use the Meetecho app to join the speaking queue and when you are called by the chair, go to the microphone(s) located near the middle of the room. For controversial topics, there will be a long queue, but do not hesitate to be the first person to join the queue if you have a question or a contribution to the discussion. The mics perform a very useful task: they let the people listening remotely and in the room hear your question or comment. When you first speak, say your name and affiliation for identification purposes. If you miss this, folks will often say "name!" to remind you. Don't be embarrassed if this happens, it's not uncommon.
 
 ## <a id="insessionremote">Remote</a>
-The IETF uses Meetecho, a browser-based remote participation tool built on WebRTC, a set of IETF standards.  This tool is free and does not require any advance download.  When you first launch Meetecho is will authenticate you using your Datatracker credentials by OIDC and ask for permissions to use your camera and microphone.  If you have registered for the meeting with a different email address to your Datatracker credentials then you will be denied access.
+The IETF uses Meetecho, a browser-based remote participation tool built on WebRTC, a set of IETF standards.  This tool is free and does not require any advance download.  When you first launch Meetecho it will authenticate you using your Datatracker credentials by OIDC and ask for permissions to use your camera and microphone.  If you have registered for the meeting with a different email address to your Datatracker credentials then you will be denied access.
 
-To minimise issues, a test Meetecho room is made available throughout the meeting. If you are a new participant then you should test Meetecho first.
+To minimize issues, a test Meetecho room is made available throughout the meeting. If you are a new participant then you should test Meetecho first.
 
 ## <a id="insessionchat">Chat</a>
 All sessions have a chat stream integrated into MeetEcho.  This uses an open source messaging system called *Zulip*, which has free clients for all major OS's if you want to connect separately. Each WG session has its own Zulip stream.
@@ -217,17 +213,17 @@ Some participants will have one or more little colored dots on their name badge.
 Members of the press wear orange-tinted badges with the word "Press" on them.
 
 ## <a id="networkaccess">Network Access</a>
-The IETF WiFi is provided by volunteers and contractors who run the Network Operations Center (NOC).  They set up a high-speed network throughout the hotel for the duration of the meeting, including the accommodation floors and common areas (restaurants, coffee shops, and so on).  There's no charge to use the IETF WiFi and the service is not filtered.  A number of different WiFi networks are provided to support different access addressesing mechanisms.
+The IETF WiFi is provided by volunteers and contractors who run the Network Operations Center (NOC).  They set up a high-speed network throughout the hotel for the duration of the meeting, including the accommodation floors and common areas (restaurants, coffee shops, and so on).  There's no charge to use the IETF WiFi and the service is not filtered.  A number of different WiFi networks are provided to support different access addressing mechanisms.
 
 There is a NOC helpdesk, generally near the Registration Desk.
 
 Many people use their laptops actively during meeting sessions for practical purposes such as consulting drafts. Power strips in all meeting rooms and hotel rooms will provide only the sockets permitted by local regulations, so ensure in advance that you have an appropriate travel adapter.
 
 ## <a id="mealsdrinkssnacks">Meals, Drinks and Snacks</a>
-Coffee, tea and snacks are provided at break times, but meals are not included in the registration fee.  Breakfast may be included with your hotel reservation but for other meals you will need to either visit an onsite eatery or one nearby to the venue.  A list of places to eat within easy reach of the venue is normally provided and the participamnt email list is also a useful source.
+Coffee, tea and snacks are provided at break times, but meals are not included in the registration fee.  Breakfast may be included with your hotel reservation but for other meals you will need to either visit an onsite eatery or one nearby to the venue.  A list of places to eat within easy reach of the venue is normally provided and the participant email list is also a useful source.
 
 ## <a id="childcare">Childcare</a>
-Where possible, the IETF provides free onsite childcare during IETF meetings provided a professional local, qualified and registered childcare company.  This is available on a first-come-first-served basis when announced.
+Where possible, the IETF provides free onsite childcare during IETF meetings provided by a local, professional, qualified and registered childcare company.  This is available on a first-come-first-served basis when announced.
 
 ## <a id="lostandfound">Lost and Found</a>
 Any lost and found items should be taken to the registration desk (the IETF registration desk, not the hotel/venue registration desk). At the end of the meeting, anything left over from the lost-and-found will usually be turned over to the hotel or brought back to the Secretariat's office.
@@ -267,11 +263,11 @@ For a good primer on how to effectively engage in the IETF, read [RFC 4144: How 
 # <a id="aftermeeting">After the meeting</a>
 The following records are provided after each meeting:
 
-* The [Proceedings](https://www.ietf.org/how/meetings/proceedings/) are the official record of an IETF meeting and are compiled in the weeks and months after each meeting.  Be sure to look through at least once; the proceedings are filled with information about IETF that you're not likely to find anywhere else. For example, you'll copies of every session's slides, links to the video recording, copies of the blue sheets (attendance records), and so on.
+* The [Proceedings](https://www.ietf.org/how/meetings/proceedings/) are the official record of an IETF meeting and are compiled in the weeks and months after each meeting.  Be sure to look through at least once; the proceedings are filled with information about IETF that you're not likely to find anywhere else. For example, you'll find copies of every session's slides, links to the video recording, copies of the blue sheets (attendance records), and so on.
 
 * The IETF has a [YouTube channel](https://www.youtube.com/user/ietf) where recordings of all of the sessions are posted, generally within 24 hours of the session.
 
-Additionally, there is a post-meeting survey which is analysed and the result posted on the IETF blog.  This is used as the basis for improvements from meeting to meeting.
+Additionally, there is a post-meeting survey which is analyzed and the results posted on the IETF blog.  This is used as the basis for identifying improvements from meeting to meeting.
 
 # <a id="sponsors">Sponsors</a>
 IETF meetings are only possible because of the generous support of our meeting sponsors.  Each meeting has a Meeting Host sponsor who gets the opportunity to host a technical presentation open to all participants.  A number of facilities available at IETF meetings (such as childcare) are only possible because of our sponsors.  If you are interested in becoming a meeting sponsor then get in touch with sponsorship@ietf.org.
