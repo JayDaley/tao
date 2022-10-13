@@ -39,7 +39,7 @@ document but an informal and informational overview.
 2.2.2 <a href="#2-2-2">Internet Engineering Steering Group (IESG)</a><br>
 2.2.3 <a href="#2-2-3">Internet Architecture Board (IAB)</a><br>
 2.2.4 <a href="#2-2-4">Internet Assigned Numbers Authority (IANA)</a><br>
-2.2.5 <a href="#2-2-5">RFC Editor and RFC Publication Center (RPC)r</a><br>
+2.2.5 <a href="#2-2-5">RFC Editor and RFC Publication Center (RPC)</a><br>
 2.2.6 <a href="#2-2-6">IETF Secretariat</a><br>
 2.2.7 <a href="#2-2-7">IETF Trust</a><br>
 2.3 <a href="#2-3">IETF Mailing Lists</a><br>
@@ -393,7 +393,7 @@ just ask your questions.
 
 The entire IESG reviews each Internet-Draft (I-D or "draft") that is proposed to become an RFC
 and should be aware of general trends that can be gleaned from the collective
-work products of the IETF. As part of the document reviews, ADs place ballots
+work products of the IETF. For IETF produced RFCs, as part of the document reviews, ADs place ballots
 that may contain comments on documents.  The AD enters a position that may be
 *YES*, *NO OBJECTION*, *DISCUSS*, *ABSTAIN*, or *RECUSE* as the result of
 their review.  Any AD may record a *DISCUSS* ballot position against a draft
@@ -449,7 +449,7 @@ NomCom and are approved by the ISOC Board of Trustees.
 
 #### 2.2.4 Internet Assigned Numbers Authority (IANA)
 
-The core registrar for the IETF's activities is the (https://www.iana.org)[IANA]. Many Internet protocols require that
+The core registrar for the IETF's activities is the [IANA](https://www.iana.org). Many Internet protocols require that
 someone keep track of protocol items that were added after the protocol came
 out. Typical examples of the kinds of registries needed are for TCP port
 numbers and MIME types. IANA's work on behalf of the IETF is overseen by the IAB. There is a
@@ -1408,13 +1408,16 @@ adoption*. If consensus is to adopt the draft, you will be asked to submit
 it with the name `draft-ietf-WGNAME-brief-subject`; you can probably guess
 what *WGNAME* should be.
 
-At this point, the IETF, notably the IETF Trust, now owns the copyright
-on the document and the IETF owns the right of "change control."
-This means the WG, and the overall IETF, can make any changes to the
-document, the one you initially wrote, that they want. If you are not
-comfortable with this, then the IETF is not the place for your
-document. There are a few more details on this
-<a href="#copyright">below</a>.
+Note that as part of submitting an Internet Draft according to the rules, you 
+grant the IETF certain rights.  These rights give the IETF the ability to 
+reliably build upon the work you have brought forward. These rights are held 
+by the IETF Trust.
+
+Once a WG adopt a document, the WG as a whole has the right of "change 
+control." This means the WG, can make any changes to the document, the one 
+you initially wrote, that they want. If you are not comfortable with this, 
+then the IETF is not the place for your document. There are a few more 
+details on this <a href="#copyright">below</a>.
 
 The WG now "works on" the document. This will be a combination of
 mailing list discussion, perhaps agenda time at a meeting, and publishing
