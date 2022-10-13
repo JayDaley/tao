@@ -12,7 +12,7 @@
       * <a href="#sprints">Code Sprint and Content Sprint</a><br>
       * <a href="#hotRFC">hotRFC</a><br>
       * <a href="#welcomereception">Welcome Reception</a><br>
-   * <a href="#meetingweek">Meeting Week</a><br><br>
+   * <a href="#meetingweek">Meeting Week</a><br>
       * <a href="#workinggroupsessions">Working Group and BoF Sessions</a><br>
       * <a href="#researchgroupsessions">Research Group Sessions</a><br>
       * <a href="#plenary">Plenary Sessions</a><br>
@@ -92,8 +92,7 @@ To participate in an IETF meeting, either onsite or remote, you have to register
 
 In order to register, you will need an [IETF Datatracker]() account, which is free to create.  The email address you use for that account should be the same as the one you use for registration, or you will not be recognised when you attempt to use the remote or onsite participation app.
 
-During registration, you will be asked to confirm that you agree to follow the [Note Well](https://www.ietf.org/about/note-well/). This points out the rules for IETF intellectual property rights (IPR),
-anti-harassment, and other important guiding policies for the IETF. The Note Wellis shown on a slide before every WG session.  For any meeting that has special COVID management procedures in place, you will also be asked to confirm that you will comply with those.
+During registration, you will be asked to confirm that you agree to follow the [Note Well](https://www.ietf.org/about/note-well/). This points out the rules for IETF intellectual property rights (IPR), anti-harassment, and other important guiding policies for the IETF. The Note Well is shown on a slide before every WG session.  For any meeting that has special COVID management procedures in place, you will also be asked to confirm that you will comply with those.
 
 NOTE: The IETF and related organizations are committed to transparency and so some of your registration data will be made public. For information about the personal data that is collected, and how it is managed, please see the [privacy statement](https://www.ietf.org/privacy-statement/).
 
