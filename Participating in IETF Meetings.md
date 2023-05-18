@@ -2,56 +2,56 @@
 
 * <a href="#about">About IETF Meetings</a><br>
 * <a href="#participants">Participants</a><br>
-   * <a href="#who">Who Participates</a><br>
-   * <a href="#expect">What to Expect From Other Participants</a><br>
-   * <a href="#notexpect">What Not to Expect From Other Participants</a><br>
+    * <a href="#who">Who Participates</a><br>
+    * <a href="#expect">What to Expect From Other Participants</a><br>
+    * <a href="#notexpect">What Not to Expect From Other Participants</a><br>
 * <a href="#registering">Registering for the Meeting</a><br>
 * <a href="#agenda">Agenda for the Week</a><br>
-   * <a href="#weekendsessions">Pre-Meeting Weekend Sessions</a><br>
-      * <a href="#hackathon">Hackathon</a><br>
-      * <a href="#sprints">Code Sprint and Content Sprint</a><br>
-      * <a href="#hotRFC">hotRFC</a><br>
-      * <a href="#welcomereception">Welcome Reception</a><br>
-   * <a href="#meetingweek">Meeting Week</a><br>
-      * <a href="#workinggroupsessions">Working Group and BoF Sessions</a><br>
-      * <a href="#researchgroupsessions">Research Group Sessions</a><br>
-      * <a href="#plenary">Plenary Sessions</a><br>
-      * <a href="#socialevent">Social Event</a><br>
-      * <a href="#officehours">Office Hours</a><br>
-      * <a href="#sidemeetings">Side Meetings</a><br>
-   * <a href="#specialevents">Special events</a><br>
-      * <a href="#anrw">Applied Networking Research Workshop and Prize</a><br>
-      * <a href="#postelaward">Postel Award</a><br>
+    * <a href="#weekendsessions">Pre-Meeting Weekend Sessions</a><br>
+        * <a href="#hackathon">Hackathon</a><br>
+        * <a href="#sprints">Code Sprint and Content Sprint</a><br>
+        * <a href="#hotRFC">hotRFC</a><br>
+        * <a href="#welcomereception">Welcome Reception</a><br>
+    * <a href="#meetingweek">Meeting Week</a><br>
+        * <a href="#workinggroupsessions">Working Group and BoF Sessions</a><br>
+        * <a href="#researchgroupsessions">Research Group Sessions</a><br>
+        * <a href="#plenary">Plenary Sessions</a><br>
+        * <a href="#socialevent">Social Event</a><br>
+        * <a href="#officehours">Office Hours</a><br>
+        * <a href="#sidemeetings">Side Meetings</a><br>
+    * <a href="#specialevents">Special events</a><br>
+        * <a href="#anrw">Applied Networking Research Workshop and Prize</a><br>
+        * <a href="#postelaward">Postel Award</a><br>
 * <a href="#insessionparticipation">Participating in sessions</a><br>
-   * <a href="#insessiononsite">Onsite</a><br>
-   * <a href="#insessionremote">Remote</a><br>
-   * <a href="#insessionchat">Chat</a><br>
-   * <a href="#insessionmaterials">Materials</a><br>
-   * <a href="#insessionrecordings">Recordings</a><br>
+    * <a href="#insessiononsite">Onsite</a><br>
+    * <a href="#insessionremote">Remote</a><br>
+    * <a href="#insessionchat">Chat</a><br>
+    * <a href="#insessionmaterials">Materials</a><br>
+    * <a href="#insessionrecordings">Recordings</a><br>
 * <a href="#onsitefacilities">Onsite Facilities</a><br>
-   * <a href="#registrationdesk">Registration Desk</a><br>
-   * <a href="#namebadges">Name Badges</a><br>
-   * <a href="#networkaccess">Network Access</a><br>
-   * <a href="#mealsdrinkssnacks">Meals, Drinks and Snacks</a><br>
-   * <a href="#childcare">Childcare</a><br>
-   * <a href="#lostandfound">Lost and Found</a><br>
-   * <a href="#terminalroom">Terminal Room</a><br>
+    * <a href="#registrationdesk">Registration Desk</a><br>
+    * <a href="#namebadges">Name Badges</a><br>
+    * <a href="#networkaccess">Network Access</a><br>
+    * <a href="#mealsdrinkssnacks">Meals, Drinks and Snacks</a><br>
+    * <a href="#childcare">Childcare</a><br>
+    * <a href="#lostandfound">Lost and Found</a><br>
+    * <a href="#terminalroom">Terminal Room</a><br>
 * <a href="#newparticipants">New Participants</a><br>
-   * <a href="#newparticipantevents">Events for New Participants</a><br>
-   * <a href="#guides">Guides Program</a><br>
-   * <a href="#newparticipantresources">Resources for New Participants</a><br>
-   * <a href="#newparticipanttips">Tips for New Participants</a><br>
+    * <a href="#newparticipantevents">Events for New Participants</a><br>
+    * <a href="#guides">Guides Program</a><br>
+    * <a href="#newparticipantresources">Resources for New Participants</a><br>
+    * <a href="#newparticipanttips">Tips for New Participants</a><br>
 * <a href="#aftermeeting">After the Meeting</a><br>
 * <a href="#sponsors">Sponsors</a><br>
 
 <br>
 
 # <a id="meetings">About IETF Meetings</a>
-The IETF holds three week-long meetings a year. Onsite participation pre-pandemic averaged between 1000 and 1500 participants and is now 750+ and rising. Remote participation is a
+The IETF holds three week-long meetings a year. Onsite participation pre-pandemic averaged between 1000 and 1500 participants and is now 750+ and rising. Every effort is made to integrate the 600+ remote participants into the overall meeting experience.
 
 IETF meetings are very different from standard computer industry conferences as they are working meetings with the primary goal of helping Working Groups get their tasks done, and the secondary goal of promoting mixing among the WGs.  For that reason, most of the agenda is comprised of multiple simultaneous sessions for Working Groups.  There is no exposition hall and only a small section of the agenda is set aside for tutorials, industry presentations, panel sessions and opportunities for the whole community to come together. 
 
-There have been more than 110 IETF meetings so far. The list of future meetings is available [online](https://www.ietf.org/how/meetings/upcoming/)
+There have been more than 110 IETF meetings so far. The dates of [upcoming meetings](https://www.ietf.org/how/meetings/upcoming/) are set many years in advance.
 
 # <a id="participants">Participants</a>
 ## <a id="who">Who Participates</a>
@@ -88,13 +88,13 @@ Occasionally, a participant can cross the line into rudeness or other unacceptab
 An IETF meeting and the plenary session in particular, is not a place for vendors to try to sell their wares. People can certainly answer questions about their company and its products, but bear in mind that the IETF is not a trade show.
 
 # <a id="registering">Registering for the Meeting</a>
-To participate in an IETF meeting, either onsite or remote, you have to register and pay a registration fee. If you cannot afford the online registration fee, you can apply for a fee waiver to then apply during the registration process. There are different fee schedules for early-bird, latecomers, single-day passes, and so on. The general registration fee covers all of the week's meetings, except the [Hackathon](), [Social Event](), and [ANRW](), which all need separate registration and sometimes payment.  Generally this can all be done in one pass through the registration system
+To participate in an IETF meeting, either onsite or remote, you have to register and pay a registration fee. If you cannot afford the online registration fee, you can apply for a fee waiver to then apply during the registration process. There are different fee schedules for early-bird, latecomers, single-day passes, and so on. The general registration fee covers all of the week's meetings, except the [Hackathon](#hackathon), [Social Event](#social-event), and [ANRW](#anrw), which all need separate registration and sometimes payment.  Generally this can all be done in one pass through the registration system
 
-In order to register, you will need an [IETF Datatracker]() account, which is free to create.  The email address you use for that account should be the same as the one you use for registration, or you will not be recognised when you attempt to use the remote or onsite participation app.
+In order to register, you will need an [IETF Datatracker](https://datatracker.ietf.org/accounts/create/) account, which is free to create.  The email address you use for that account should be the same as the one you use for registration, or you will not be recognised when you attempt to use the remote or onsite participation app.
 
 During registration, you will be asked to confirm that you agree to follow the [Note Well](https://www.ietf.org/about/note-well/). This points out the rules for IETF intellectual property rights (IPR), anti-harassment, and other important guiding policies for the IETF. The Note Well is shown on a slide before every WG session.  For any meeting that has special COVID management procedures in place, you will also be asked to confirm that you will comply with those.
 
-NOTE: The IETF and related organizations are committed to transparency and so some of your registration data will be made public. For information about the personal data that is collected, and how it is managed, please see the [privacy statement](https://www.ietf.org/privacy-statement/).
+NOTE: The IETF and related organizations are committed to transparency and so some of your registration data will be made public. For information about the personal data that is collected, and how it is managed, please see the [Privacy Statement](https://www.ietf.org/privacy-statement/).
 
 You will automatically be subscribed to a meeting-specific announcement list and, unless you opt-out, you will automatically be subscribed to a meeting-specific email list.  Discussions on the meetings list can be high volume and fairly wide-ranging about meeting-specific issues, but it is also a channel for sharing information that many find useful to understand what is going on during the meeting itself. Topics often include information about local mass transit, interesting sites to see, desire to buy or sell a social event ticket, and so on. Local experts, people who live in the area, often respond to questions and can be very helpful.
 
@@ -240,9 +240,9 @@ The **New Participants Overview Tutorial**, generally held on Sunday, where an e
 
 Then later on the Sunday is the **New Participants Quick Connections**, which is a simple and effective way for new participants to be introduced to a variety of experienced IETF attendees — often working group (WG) chairs — who can help you get more involved in your areas of interest.  It is a great chance to meet people, and establish contacts that can be useful during the rest of the week. Registration is required as space is limited.
 
-The **New Participants Dinner** [MORE]
+The **New Participants Dinner** on the Monday night is a subsidised dinner providing time for in-depth conversation and socializing.
 
-Finally there is the **New Participants Happy Hour** [MORE]
+Finally there is the **New Participants Happy Hour** on the Thursday evening, which is a great opportunity for newcomers to share their experiences and discuss topics of interest with IETF leadership.
 
 ## <a id="guides">Guides Program</a>
 The IETF Guides program, pairs newcomers with an experienced IETF person to help you become acclimated and effective quickly.  If you are interested, watch for the announcement. The intent is for you to have a call with your guide before the meeting, a meeting during the beginning of the meeting, and check in some time during the meeting, so they can help you with any questions you might have.
@@ -270,9 +270,3 @@ Additionally, there is a post-meeting survey which is analyzed and the results p
 
 # <a id="sponsors">Sponsors</a>
 IETF meetings are only possible because of the generous support of our meeting sponsors.  Each meeting has a Meeting Host sponsor who gets the opportunity to host a technical presentation open to all participants.  A number of facilities available at IETF meetings (such as childcare) are only possible because of our sponsors.  If you are interested in becoming a meeting sponsor then get in touch with sponsorship@ietf.org.
-
-
-
-
-
-

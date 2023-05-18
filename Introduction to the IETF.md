@@ -1,9 +1,10 @@
 **Contents**
 
 * <a href="#about">About the IETF</a><br>
+* <a href="#mission">Mission</a><br>
 * <a href="#participants">Participants</a><br>
+* <a href="#principles">Principles</a><br>
 * <a href="#rfcs">RFCs</a><br>
-* <a href="#participants">Participants</a><br>
 * <a href="#work">The Work</a><br>
 * <a href="#meetings">IETF Meetings</a><br>
 * <a href="#structure">Structure</a><br>
@@ -13,16 +14,34 @@
 
 # <a id="about">About the IETF</a> 
 
-The Internet Engineering Task Force (IETF), founded in 1986, is the largest standards development organization (SDO) for the Internet.
+The Internet Engineering Task Force (IETF), founded in 1986, is the premiere standards development organization (SDO) for the Internet. The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the Internet. But in no way does the IETF control, or even patrol, the Internet.
+
+# <a id="mission">Mission</a> 
 
 Quoting from [RFC 3935: A Mission Statement for the IETF](https://www.rfc-editor.org/info/rfc3935):
 
 > the overall goal of the IETF is to make the Internet work better.<br>
 > Its mission is to produce high quality, relevant technical and engineering documents that influence the way people design, use, and manage the Internet in such a way as to make the Internet work better. These documents include protocol standards, best current practices, and informational documents of various kinds.
 
-The IETF pursues this mission in adherence to the following cardinal principles:
+The Mission Statement further states that the Internet isn't value-neutral, and neither is the IETF.  The IETF wants the Internet to be useful for communities that share our commitment to openness and fairness. The IETF embraces technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that the IETF chooses to create.
 
-**Open process** Any interested person can participate in the work, know what is being decided, and make his or her voice heard on the issue. Part of this principle is our commitment to making our documents, our WG mailing lists, our attendance lists, and our meeting minutes publicly available on the Internet.
+# <a id="participants">Participants</a>
+
+There is no membership in the IETF. Anyone can participate by signing up to a working group mailing list (more on that below), or registering for an IETF meeting. All IETF participants are considered volunteers and expected to participate as individuals, including those paid to participate.
+
+The IETF welcomes all interested individuals and participants come from all over the world and from many different parts of the Internet industry. In any one year, over 7000 people actively participate in the IETF either by authoring a document, engaging in a mailing list discussion, or attending a meeting.
+
+The only fee the IETF charges is for registering for an IETF meeting, with options in place to prevent that fee from becoming a barrier to participation.
+
+IETF participants are regularly shown the [Note Well](https://www.ietf.org/about/note-well/), a reminder of the policies and processes they are expected to comply with. To ensure an environment in which people of many different backgrounds are treated with dignity, decency, and respect, these policies include a [code of conduct](https://www.rfc-editor.org/info/bcp54), an [anti-harassment policy](https://www.ietf.org/blog/ietf-anti-harassment-policy), and the IETF has an [Ombudsteam](https://www.ietf.org/contact/ombudsteam) who are the point of escalation for any problems with conduct. 
+
+The IETF conducts its work solely in English.
+
+# <a id="principles">Principles</a>
+
+The IETF pursues its mission in adherence to the following cardinal principles:
+
+**Open process** Any interested person can participate in the work, know what is being decided, and make his or her voice heard on the issue. Part of this principle is our commitment to making our documents, our Working Group mailing lists, our attendance lists, and our meeting minutes publicly available on the Internet.
 
 **Technical competence** The issues on which the IETF produces its documents are issues where the IETF has the competence needed to speak to them, and that the IETF is willing to listen to technically competent input from any source. Technical competence also means that we expect IETF output to be designed to sound network engineering principles - this is also often referred to as "engineering quality".
 
@@ -32,26 +51,11 @@ The IETF pursues this mission in adherence to the following cardinal principles:
 
 **Protocol ownership** When the IETF takes ownership of a protocol or function, it accepts the responsibility for all aspects of the protocol, even though some aspects may rarely or never be seen on the Internet. Conversely, when the IETF is not responsible for a protocol or function, it does not attempt to exert control over it, even though it may at times touch or affect the Internet.
 
-The Mission Statement further states that the Internet isn't value-neutral, and neither is the IETF.  The IETF wants the Internet to be useful for communities that share our commitment to openness and fairness. The IETF embraces technical concepts such as decentralized control, edge-user empowerment and sharing of resources, because those concepts resonate with the core values of the IETF community.  These concepts have little to do with the technology that's possible, and much to do with the technology that the IETF chooses to create.
-
-The IETF makes voluntary standards that are often adopted by Internet users, network operators, and equipment vendors, and it thus helps shape the trajectory of the development of the Internet. But in no way does the IETF control, or even patrol, the Internet.
-
-# <a id="participants">Participants</a> 
-There is no membership in the IETF. Anyone can participate by signing up to a working group mailing list (more on that below), or registering for an IETF meeting. All IETF participants are considered volunteers and expected to participate as individuals, including those paid to participate.
-
-The IETF welcomes all interested individuals and participants come from all over the world and from many different parts of the Internet industry. In any one year, over 7000 people actively participate in the IETF either by authoring a document, engaging in a mailing list discusson, or attending a meeting.
-
-The only fee the IETF charges is for registering for an IETF meeting.
-
-IETF participants are regularly shown the [Note Well](https://www.ietf.org/about/note-well/), a reminder of the policies and processes they are expected to comply with. To ensure an environment in which people of many different backgrounds are treated with dignity, decency, and respect, these policies include a [code of conduct](https://www.rfc-editor.org/info/bcp54), an [anti-harassment policy](https://www.ietf.org/blog/ietf-anti-harassment-policy), and the IETF has an [Ombudsteam](https://www.ietf.org/contact/ombudsteam) who are the point of escalation for any problems with conduct. 
-
-The IETF conducts its work solely in English.
-
 # <a id="rfcs">RFCs</a>
 
 The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Each RFC has a status, generally one of 'Internet Standard', 'Proposed Standard', 'Informational', 'Experimental' or 'Historic'.  Some statuses may change over time. RFCs are freely available.
 
-The RFC series has two sub-series, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs and BCPs are RFCs that describe Best Current Practices in the Internet. 
+The RFC series has two sub-series, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs and BCPs are RFCs that describe Best Current Practices in the Internet, some of which are administrative processes for the IETF. 
 
 Once an RFC is published, it is never revised. If the specification it describes changes, the standard will be re-published in another RFC that "obsoletes" the first. If a technical or editorial error is found in an RFC, an errata may be linked to the RFC and/or held for the next document update.
 
@@ -79,7 +83,7 @@ When an I-D has cleared all the hurdles to become an RFC it goes through a profe
 
 # <a id="meetings">IETF Meetings</a>
 
-The IETF holds three week-long meetings a year with the primary goal of helping Working Groups get their tasks done, and promoting mixing among the WGs. In-person participation at IETF meetings now averages between 1000 and 1500 participants. These meetings rotate through Asia, North America and Europe each year, though it occasionally meets outside of these regions.
+The IETF holds three week-long meetings a year with the primary goal of helping Working Groups get their tasks done, and promoting mixing among the WGs. In-person participation at IETF meetings now averages between 1000 and 1500 participants. These meetings rotate through Asia, North America and Europe each year, though the IETF occasionally meets outside of these regions.
 
 IETF meetings are very different from standard computer industry conferences as there is no exposition hall, no sales staff and the sessions are mostly meetings of existing or proposed working groups who meet to discuss their ongoing work. There are generally eight concurrent tracks of WG sessions which are scheduled so as to reduce the number of scheduling conflicts for related WGs.
 

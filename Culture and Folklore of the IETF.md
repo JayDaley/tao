@@ -1,0 +1,3 @@
+"RFC" originally stood for Request for Comments, and this name (used since 1969, before the IETF existed) expresses something important: the Internet is a constantly changing technical system, and any document that we write today may need to be updated tomorrow. One way to look at the IETF is as the group of people who work together to improve the technology of the Internet on a daily basis. 
+
+The collaborative process used to develop early RFCs remains an important part of the IETF spirit. 

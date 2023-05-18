@@ -4,7 +4,7 @@ It’s time for the Tao to evolve into a new set of documents that are written d
 - How the IETF Works
 - Participating in IETF Meetings
 - Structure and Governance of the IETF
-- The Culture and Folklore of the IETF
+- Culture and Folklore of the IETF
 
 The key differences between the way this is written and the way the Tao is written are:
 
