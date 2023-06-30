@@ -63,7 +63,11 @@ IETF meetings are of high interest to engineers, developers, academics, research
 
 * **Academia**.  IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force (IRTF) meets concurrently with the IETF and IRTF Research Groups (analogous to WGs) are of high interest to researchers.  There is also an annual [Applied Networking Research Workshop](#anrw).
 
+* **Contractors/Consultants**.  There is as small but active market of technical contractors/consultants who specialise in Internet standards development or an aspect of it, such as cryptography.  These contractors are often empoloyed by organisations for whom standards development is a peripheral rather than a core activity, such as Governments.
+
 * **Interested individuals**.  There are also many people who participate solely as individuals with no direct link to their employment.  A key principle of the IETF is that participation is as an *individual* not a formal representative of an employer, and so interested individuals have as much opportunity to contribute as anyone else.
+
+* **Civil Society**.  A few people from civil society organisations participate in the IETF looking at the parts of IETF work that have broader policy implications.
 
 Given that IETF meetings are very different from trade conferences or learning/training based conferences, there are some roles who would probably get little benefit from participating:
 
@@ -91,10 +95,6 @@ An IETF meeting and the plenary session in particular, is not a place for vendor
 To participate in an IETF meeting, either onsite or remote, you have to register and pay a registration fee. If you cannot afford the online registration fee, you can apply for a fee waiver to then apply during the registration process. There are different fee schedules for early-bird, latecomers, single-day passes, and so on. The general registration fee covers all of the week's meetings, except the [Hackathon](#hackathon), [Social Event](#social-event), and [ANRW](#anrw), which all need separate registration and sometimes payment.  Generally this can all be done in one pass through the registration system
 
 In order to register, you will need an [IETF Datatracker](https://datatracker.ietf.org/accounts/create/) account, which is free to create.  The email address you use for that account should be the same as the one you use for registration, or you will not be recognised when you attempt to use the remote or onsite participation app.
-
-During registration, you will be asked to confirm that you agree to follow the [Note Well](https://www.ietf.org/about/note-well/). This points out the rules for IETF intellectual property rights (IPR), anti-harassment, and other important guiding policies for the IETF. The Note Well is shown on a slide before every WG session.  For any meeting that has special COVID management procedures in place, you will also be asked to confirm that you will comply with those.
-
-NOTE: The IETF and related organizations are committed to transparency and so some of your registration data will be made public. For information about the personal data that is collected, and how it is managed, please see the [Privacy Statement](https://www.ietf.org/privacy-statement/).
 
 You will automatically be subscribed to a meeting-specific announcement list and, unless you opt-out, you will automatically be subscribed to a meeting-specific email list.  Discussions on the meetings list can be high volume and fairly wide-ranging about meeting-specific issues, but it is also a channel for sharing information that many find useful to understand what is going on during the meeting itself. Topics often include information about local mass transit, interesting sites to see, desire to buy or sell a social event ticket, and so on. Local experts, people who live in the area, often respond to questions and can be very helpful.
 
