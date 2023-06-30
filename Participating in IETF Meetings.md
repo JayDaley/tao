@@ -36,7 +36,7 @@
     * <a href="#childcare">Childcare</a><br>
     * <a href="#lostandfound">Lost and Found</a><br>
     * <a href="#terminalroom">Terminal Room</a><br>
-* <a href="#newparticipants">New Participants</a><br>
+* <a href="#newparticipants">Support for New Participants</a><br>
     * <a href="#newparticipantevents">Events for New Participants</a><br>
     * <a href="#guides">Guides Program</a><br>
     * <a href="#newparticipantresources">Resources for New Participants</a><br>
@@ -230,7 +230,7 @@ Any lost and found items should be taken to the registration desk (the IETF regi
 ## <a id="terminalroom">Terminal Room</a>
 The terminal room is where you can get wired connectivity and limited access to a printer. The people and companies that donate their equipment, services, and time are to be heartily congratulated and thanked. You must be wearing your badge in order to get into the terminal room. The terminal room provides power strips, Ethernet ports, and WiFi (for the people who don't need Ethernet but want power). What it doesn't provide are terminals; the name is historical. 
 
-# <a id="newparticipants">New Participants</a>
+# <a id="newparticipants">Support for New Participants</a>
 The IETF defines 'New Participants' as anyone who has participated in less than 6 meetings (onsite or remote) and provides events and other services to help them get the most from the meeting.  This work is managed and delivered by a team of volunteers and staff, the [Education, Mentoring, and Outreach Directorate (EMODIR)](https://datatracker.ietf.org/group/emodir/about/).
 
 ## <a id="newparticipantevents">Events for New Participants</a>
