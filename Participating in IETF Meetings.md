@@ -16,6 +16,7 @@
         * <a href="#socialevent">Social Event</a><br>
         * <a href="#officehours">Office Hours</a><br>
         * <a href="#sidemeetings">Side Meetings</a><br>
+        * <a href="#anrw">Applied Networking Research Workshop and Prize</a><br>
 * <a href="#insessionparticipation">Participating in sessions</a><br>
     * <a href="#meetecho">Meetecho Participation Tool</a><br>
     * <a href="#onsite">Onsite</a><br>
@@ -57,7 +58,7 @@ IETF meetings are of high interest to engineers, developers, academics, research
 
 * **Operators**. A fair amount of IETF work covers many parts of the operations of ISPs, social media platforms, streaming media companies, large enterprises, and specialist industries such as domain name registries and registrars. The IETF has several WGs focused on operations, in addition to many relevant protocols under development. For example, the IETF is increasingly working on encrypting network traffic, which has significant implications for operators. Many of the best operations documents from the IETF come from real-world operators.  
 
-* **Academia**. IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force ([IRTF](https://www.irtf.org)) meets concurrently with the IETF and IRTF [Research Groups](https://irtf.org/groups) (analogous to WGs) are of high interest to researchers. There is also an annual [Applied Networking Research Workshop](https://www.irtf.org/anrw) held in conjunction with an IETF meeting.
+* **Academia**. IETF meetings are often excellent places for all kinds of academics and researchers to find out what is happening in the way of soon-to-be-deployed protocols, and networking architecture and infrastructure. Professors and grad students (and sometimes overachieving undergrads) who are doing research in networking or communications can get a wealth of information by following Working Groups in their specific fields of interest. Wandering into different Working Group meetings can have the same effect as going to symposia and seminars in your department. The Internet Research Task Force ([IRTF](https://www.irtf.org)) meets concurrently with the IETF and IRTF [Research Groups](https://irtf.org/groups) (analogous to WGs) are of high interest to researchers. There is also an annual [Applied Networking Research Workshop](#anrw) held in conjunction with an IETF meeting.
 
 * **Contractors/Consultants**. There is as small and active number of technical contractors/consultants who specialize in Internet standards development, or an aspect of it, such as cryptography. These contractors are often empoloyed by organisations for whom standards development is a peripheral rather than a core activity, such as governments.
 
@@ -76,7 +77,7 @@ Given that IETF meetings are very different from trade conferences or learning/t
 Finally, please note there are many people who have been very active and very productive in the IETF who have never attended an IETF meeting, and you should not feel obligated to come to an IETF meeting in order to contribute.  
 
 # <a id="registering">Registering for the Meeting</a>
-To participate in an IETF meeting, either onsite or remotely, you have to register and pay a registration fee. If you cannot afford the online registration fee, you can apply for a fee waiver to then apply during the registration process. There are different fee schedules for early-bird, latecomers, single-day passes, students, and so on. The general registration fee covers all of the week's meetings, except the [Hackathon](#hackathon), [Social Event](#social-event), and [ANRW](#anrw), which all need separate registration and sometimes payment. Generally, this can all be done in one pass through the registration system.
+To participate in an IETF meeting, either onsite or remotely, you have to register and pay a registration fee. If you cannot afford the online registration fee, you can apply for a fee waiver to then apply during the registration process. There are different fee schedules for early-bird, latecomers, single-day passes, students, and so on. The general registration fee covers all of the week's meetings, except the [Social Event](#social-event), which is an additional ticket purchased through the registration system. The registration system also provides the options to register for the [Hackathon](#hackathon) and [ANRW](#anrw).
 
 In order to register, you will need an [IETF Datatracker](https://datatracker.ietf.org/accounts/create/) account, which is free to create. The email address you use for that account should be the same as the one you use for registration, or you will not be recognised when you attempt to use the required remote or onsite participation application.
 
@@ -87,7 +88,7 @@ Agendas are published on the web a few weeks before the meeting with changes pos
 On the Saturday and Sunday before the start of WG sessions, there are a few sessions for participants. In addition to those listed below, Sunday also has some [new participants events](#newparticipantevents). See the New Participant section below for more details.
 
 ### <a id="hackathon">Hackathon</a>
-The main weekend session running across both Saturday and Sunday, is the [IETF Hackathon](https://www.ietf.org/how/runningcode/), which generally has 200+ participants working on one of the various projects. Full support is provided for remote participants. Unlike the rest of the week, breakfast and lunch are provided for the Hackathon. Registration is free, but separate, and should be completed at the same time as the main meeting registration.
+The main weekend session running across both Saturday and Sunday, is the [IETF Hackathon](https://www.ietf.org/how/runningcode/), which generally has 200+ participants working on one of the various projects. Full support is provided for remote participants. Unlike the rest of the week, breakfast and lunch are provided for the Hackathon. The Hackathon is free to participate in but you must register by selecting the appropriate option in the meeting registration system.  It is possible to register just for the Hackathon and not the main IETF meeting.
 
 ### <a id="sprints">Code Sprint and Content Sprint</a>
 There are also two smaller sessions on the Saturday of a **Code Sprint**, where participants contribute patches and new features to the IETF Datatracker, and sometimes a **Content Sprint** where participants contribute text to IETF wikis and other documentation. Both these sessions have full support for remote participants.
@@ -124,6 +125,11 @@ During the week, the various leadership groups and other appointed roles may hol
 
 ### <a id="sidemeetings">Side Meetings</a>
 A side meeting (historically called a "bar BOF") is an unofficial get-together in-between WG meetings or in the late evening, during which a lot of work gets done. The IETF provides two rooms that can be booked on a first-come-first-served basis for side meetings, but side meetings can spring up in many different places around an IETF meeting, such as restaurants, coffee shops, unused hall spaces and the like. 
+
+### <a id="anrw">Applied Networking Research Workshop and Prize</a>
+The IRTF and ACM co-host the annual [Applied Networking Research Workshop](https://irtf.org/anrw/), normally scheduled during the July IETF meeting. Registration is required (an option in the meeting registration system) and is free to those registered for the meeting, but chargeable if not. 
+
+The IRTF also hosts the [Applied Networking Research Prize](https://irtf.org/anrp/), which includes a cash prize, a travel grant to attend, and a chance to present. See the web page for requirements.
 
 # <a id="insessionparticipation">Participating in sessions</a>
 ## <a id="meetecho">Meetecho Participation Tool</a>
