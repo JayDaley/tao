@@ -117,7 +117,7 @@ Either the first part of the Administrative Plenary, or a separate Technical Ple
 ### <a id="socialevent">Social Event</a>
 The meeting host (main sponsor) may choose to hold a social event during the week, generally on a Tuesday evening. The social event is sometimes a high-tech-related event, or it might be in an art museum or a reception hall. Note, however, that not all IETF meetings have social events. This event is designed to give people a chance to meet on a social rather than technical level. It is a good idea to wear your name badge and leave your laptop behind.
 
-Social events are not included in the general meeting registration, and usually require purchasing separate tickets that are available after meeting registration opens. During meeting week, it is common for people looking to buy or sell a social ticket to post to the participant email list.
+The social event is a paid event, with tickets purchased through the registration system, either at time of registration or later if the event has not been finalized whem registration opens. The social event has limited capacity and it is common for people looking to buy or sell a social ticket to post to the participant email list.
 
 ### <a id="officehours">Office Hours</a>
 During the week, the various leadership groups and other appointed roles may hold an "office hours" session, advertised on the agenda.  This is a chance for you to drop in and meet with that person/group and discuss any topic of interest.
