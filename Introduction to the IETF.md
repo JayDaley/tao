@@ -53,7 +53,7 @@ The IETF pursues its mission in adherence to the following cardinal principles:
 
 # <a id="rfcs">RFCs</a>
 
-The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Each RFC has a status, generally one of 'Internet Standard', 'Proposed Standard', 'Informational', 'Experimental' or 'Historic'.  Some statuses may change over time. RFCs are freely available.
+The IETF publishes its technical documentation as RFCs, an acronym for their historical title *Requests for Comments*. RFCs are sequentially numbered, starting with RFC 1 published in 1969 (the RFC series predates the IETF). Each RFC has a status, generally one of 'Internet Standard', 'Proposed Standard', 'Best Current Practice' (or 'BCP' in short),  'Informational', 'Experimental' or 'Historic'.  Some statuses may change over time. RFCs are freely available.
 
 The RFC series has two sub-series, STDs and BCPs, with each numbered STD and BCP comprising one or more RFCs. STDs are 'Internet Standard' RFCs and BCPs are RFCs that describe Best Current Practices in the Internet, some of which are administrative processes for the IETF. 
 
