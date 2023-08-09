@@ -1,5 +1,3 @@
-**Contents**
-
 * <a href="#about">About the IETF</a><br>
 * <a href="#mission">Mission</a><br>
 * <a href="#participants">Participants</a><br>
