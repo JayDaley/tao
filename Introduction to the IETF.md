@@ -81,19 +81,19 @@ When an I-D has cleared all the hurdles to become an RFC it goes through a profe
 
 # <a id="meetings">IETF Meetings</a>
 
-The IETF holds three week-long meetings a year with the primary goal of helping Working Groups get their tasks done, and promoting mixing among the WGs. In-person participation at IETF meetings now averages between 1000 and 1500 participants. These meetings rotate through Asia, North America and Europe each year, though the IETF occasionally meets outside of these regions.
+The IETF holds three week-long meetings a year with the primary goal of helping Working Groups get their tasks done, and promoting cross-WG discussions. In-person participation at IETF meetings now averages between 1000 and 1500 participants, with hundreds of additional participants joining remotely. These meetings rotate around the globe.
 
-IETF meetings are very different from standard computer industry conferences as there is no exposition hall, no sales staff and the sessions are mostly meetings of existing or proposed working groups who meet to discuss their ongoing work. There are generally eight concurrent tracks of WG sessions which are scheduled so as to reduce the number of scheduling conflicts for related WGs.
+IETF meetings are very different from standard computer industry conferences as there is no exposition hall, no sales staff and the sessions are mostly meetings of existing or proposed working groups who meet to discuss their ongoing work. There are generally several concurrent session tracks.
 
-WG sessions at IETF meetings are not decision making and any consensus reached during a session must be referred to the WG mailing list to see if it has consensus support across all WG participants, not just those that were at the session.
+WG sessions at IETF meetings are not decision making and any consensus reached during a session must be referred to the WG mailing list to see if it has consensus support across all WG participants, not just those that participated in the session.
 
-To assist newcomers there are tutorials and networking sessions, and often there is a social event open to all participants. Additionally there is a plenary session with no other concurrently scheduled sessions, for the IETF to meet as a whole and where the various leadership bodies report on their activities and take questions from the floor.
+To assist newcomers, there are tutorials and networking sessions, and often several social events open to all participants. Additionally, there is a plenary session for the IETF to meet as a whole, and where the various leadership bodies report on their activities and take questions from the participants.
 
-All sessions have remote participation support and recordings of the sessions are posted on YouTube soon after they are recorded.  The full proceedings of all IETF meetings (agenda, sessions materials, recordings, chat logs, etc) are archived and permanently available online after the meeting.
+All sessions have live remote participation support and recordings of the sessions are posted on YouTube soon after they are recorded.  The full proceedings of all IETF meetings (agenda, sessions materials, recordings, chat logs, etc) are archived and permanently available online after the meeting.
 
-IETF meetings are operated on a cost-recovery basis and participants are charged a fee to participate whether in-person or remote as sponsorship income does not cover the full cost. There is a "no questions asked" remote participation fee waiver available to anyone for whom the fee would be a barrier to participation.
+IETF meetings are operated on a cost-recovery basis and participants are charged a fee to participate, whether in person or remotely, as sponsorship income does not cover the full cost. There is a "no questions asked" remote participation fee waiver available to anyone for whom the fee would be a barrier to participation.
 
-Individual Working Groups can choose to hold interim meetings outside of the regular IETF meeting cycle.  These are generally remote only and are always free to participate in.
+Individual Working Groups can choose to hold interim meetings outside of the regular IETF meeting cycle.  These are often remote-only and are always free to participate in.
 
 # <a id="structure">Structure</a>
 
