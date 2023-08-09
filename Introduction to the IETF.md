@@ -7,10 +7,6 @@
 * <a href="#rfcs">RFCs</a><br>
 * <a href="#work">The Work</a><br>
 * <a href="#meetings">IETF Meetings</a><br>
-* <a href="#structure">Structure</a><br>
-* <a href="#services">Tools and Services</a><br>
-
-<br>
 
 # <a id="about">About the IETF</a> 
 
